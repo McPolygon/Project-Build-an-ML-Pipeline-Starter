@@ -1,6 +1,8 @@
 
 ## Links for Project:
-W&B Project Link: https://wandb.ai/jekukuk/nyc_airbnb/overview
+W&B Project Links (Icluding two diffrernt links to the same project because porctor had issue with accessing): https://wandb.ai/jekukuk/nyc_airbnb/overview
+https://wandb.ai/jekukuk/nyc_airbnb?nw=nwuserjessekukuk
+
 Github Link: https://github.com/McPolygon/Project-Build-an-ML-Pipeline-Starter
 
 
